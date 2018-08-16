@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">hzk</string>
-
+    <string name="personmessage">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="person">个人</string>
+    <string name="thing">商品</string>
+    <string name="IP">192.168.200.28</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password (optional)</string>
